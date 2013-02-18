@@ -8,7 +8,7 @@ exclude:
 prose:
   rooturl: "_posts"
   metadata: 
-    _posts/articles: |
+    _posts/recipes: |
       published: false
       layout: recipe
       title: Title of Recipe

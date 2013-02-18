@@ -11,7 +11,7 @@ small, strike, sub, sup, tt, var, center,
 dl, dt, dd,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
+recipe, aside, canvas, details, embed, 
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
@@ -23,7 +23,7 @@ time, mark, audio, video {
   vertical-align: baseline;
   }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+recipe, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
   display: block;
   }
@@ -226,19 +226,19 @@ body:before {/* thanks to Maleika (Kohoutec)*/
 
 
 /* ------------------------------------------
-  Article
+  recipe
 ---------------------------------------------*/
 
 
 
-.article-navigation {
+.recipe-navigation {
   width: 800px;
   margin: 0 auto;
   margin-top: 30px;
   overflow: auto;
 }
 
-.article-navigation .article-link {
+.recipe-navigation .recipe-link {
   display: block;
   float: left;
   height: 30px;
@@ -254,11 +254,11 @@ body:before {/* thanks to Maleika (Kohoutec)*/
   margin-right: 10px;
 }
 
-.article-link:hover, .article-link.active {
+.recipe-link:hover, .recipe-link.active {
   background: #078FA2;
 }
 
-.article-wrapper {
+.recipe-wrapper {
   background: #fff;
   padding-bottom: 50px;
 }
