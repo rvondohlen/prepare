@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 
 keywords: mexican, beef, peppers, green peppers, easy, dinner, stuffed
 ---
