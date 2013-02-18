@@ -1,19 +1,19 @@
 auto: true
 server: true
 permalink: none
-baseurl: ""
+baseurl: "http://rvondohlen.github.com/prepare/"
 exclude:
 - .gitignore
-- README.md
 
 prose:
   rooturl: "_posts"
   metadata: 
     _posts/articles: |
       published: false
-      layout: article
+      layout: recipe
       title: Title of Recipe
+      tags: tag
       author_twitter: ryanvondohlen
       author: Ryan von Dohlen
       categories:
-      - articles
+      - recipes

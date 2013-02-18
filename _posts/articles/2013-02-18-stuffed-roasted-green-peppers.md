@@ -1,13 +1,18 @@
 ---
-layout: default
 published: true
+layout: recipe
+title: Stuffed Roasted Green Peppers
+tags: mexican, beef, peppers, green peppers, easy, dinner, stuffed
+author_twitter: ryanvondohlen
+author: Ryan von Dohlen
+categories:
+- recipes
 
-keywords: mexican, beef, peppers, green peppers, easy, dinner, stuffed
 ---
 
 #Stuffed Roasted Green Peppers
 
-Serves 2
+Serves 2.
 	
 ##Ingredients:
 

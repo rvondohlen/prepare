@@ -1,4 +1,4 @@
-Prose Bootstrap
+Preparé
 =================
 
-A minimal template to get started with Jekyll and Prose.
+A collection of recipes managed by Prose.
