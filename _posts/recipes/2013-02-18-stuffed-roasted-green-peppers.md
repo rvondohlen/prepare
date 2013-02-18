@@ -10,9 +10,7 @@ categories:
 
 ---
 
-#Stuffed Roasted Green Peppers
-
-Serves 2.
+Serves 2
 	
 ##Ingredients:
 
