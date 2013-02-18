@@ -12,9 +12,8 @@ prose:
     _posts/articles: |
       published: false
       layout: article
-      title: Your Post Title
-      abstract: Short summary of your article.
-      author_twitter: johndoe
-      author: John Doe
+      title: Title of Recipe
+      author_twitter: ryanvondohlen
+      author: Ryan von Dohlen
       categories:
       - articles
