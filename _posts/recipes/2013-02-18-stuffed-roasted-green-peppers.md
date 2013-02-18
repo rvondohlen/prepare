@@ -39,7 +39,6 @@ Serves 2.
 	- 1 roma tomato 
 	- couple sprigs of cilantro
 	
-	
 ##Procedures:
 
 1. Preheat oven to Broil (or 450°).
