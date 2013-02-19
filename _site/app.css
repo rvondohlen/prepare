@@ -121,7 +121,7 @@ and your footer gets pushed down a bit more, creating vertical scroll bars in th
 
 #container { 
   min-height: 100%;
-  width: 650px;
+  width: 640px;
 }
 
 #footer {
@@ -136,7 +136,7 @@ and your footer gets pushed down a bit more, creating vertical scroll bars in th
 }
 
 #footer .footer-content {
-  width: 650px;
+  width: 640px;
   margin: 0 auto;
   font-size: 16px;
   text-align: center;
@@ -987,7 +987,7 @@ ul.site li a {
 ---------------------------------------------*/
 
 #container .about {
-  width: 960px;
+  width: 64640px;
   margin: 30px auto;
   background: white;
 }
@@ -997,7 +997,7 @@ ul.site li a {
 ---------------------------------------------*/
 
 .help {
-  width: 960px;
+  width: 640px;
   margin: 30px auto;
 }
 
