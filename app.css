@@ -149,7 +149,7 @@ p {
   }
 
 #header .navigation {
-  width: 800px;
+  width: 640px;
   margin: 0 auto;
   font-size: 12px;
   position: relative;
@@ -180,7 +180,7 @@ and your footer gets pushed down a bit more, creating vertical scroll bars in th
 
 #container { 
   min-height: 100%;
-  min-width: 800px;
+  min-width: 640px;
   }
 
 #footer {
@@ -195,7 +195,7 @@ and your footer gets pushed down a bit more, creating vertical scroll bars in th
   }
 
 #footer .footer-content {
-  width: 800px;
+  width: 640px;
   margin: 0 auto;
   font-size: 15px;
   }
@@ -232,7 +232,7 @@ body:before {/* thanks to Maleika (Kohoutec)*/
 
 
 .recipe-navigation {
-  width: 800px;
+  width: 640px;
   margin: 0 auto;
   margin-top: 30px;
   overflow: auto;
@@ -275,7 +275,7 @@ body:before {/* thanks to Maleika (Kohoutec)*/
 }
 
 .intro .title {
-  width: 800px;
+  width: 640px;
   margin: 20px auto;
   font-size: 36px; 
   margin-bottom: 10px; 
@@ -284,19 +284,19 @@ body:before {/* thanks to Maleika (Kohoutec)*/
 }
 
 .intro .abstract {
-  width: 800px;
+  width: 640px;
   font-size: 20px;
   margin: 20px auto;
 }
 
 .intro .meta {
-  width: 800px;
+  width: 640px;
   margin: 20px auto;
   padding-top: 20px;
 }
 
 .post-content {
-  width: 800px;
+  width: 640px;
   margin: 0px auto;
   padding: 20px 0;
   font-family: 'OpenSans', sans-serif;
