@@ -235,7 +235,7 @@ body:before {/* thanks to Maleika (Kohoutec)*/
   margin: 0 auto;
   margin-top: 30px;
   overflow: auto;
-  background-image: url("img/prepare-logo.png") center;
+  background-image: url("img/prepare-logo.png");
 }
 
 .recipe-navigation .recipe-link {
