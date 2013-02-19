@@ -206,7 +206,6 @@ and your footer gets pushed down a bit more, creating vertical scroll bars in th
   font-size: 12px;
   text-transform: uppercase;
   font-weight: bold;
-  background-image: url('images/sprite.png');
   }
   a.about { background-position: 0 -959px; }
   a.help { background-position: 0 -1049px; }
@@ -236,7 +235,7 @@ body:before {/* thanks to Maleika (Kohoutec)*/
   margin: 0 auto;
   margin-top: 30px;
   overflow: auto;
-  background-image: url("{{site.baseurl}}/img/prepare-logo.png") center;
+  background-image: url("img/prepare-logo.png") center;
 }
 
 .recipe-navigation .recipe-link {
