@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: recipe
 title: Lemon Rosemary Pork
 tags: pork tenderloin, dinner, lemon
